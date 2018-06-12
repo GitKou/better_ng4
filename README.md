@@ -4,3 +4,5 @@
 -   4.TemplateRef 和 ViewContainerRef 有什么作用？ (出题: stone-jin)
 -   5.理解 Directive 和 Component 的区别？ (出题: stone-jin)
 -   6.ngx 的懒加载怎么写？ (出题: stone-jin)
+-   7.使用 angular 的订阅和发布（出题：stone-jin）
+-   8.如何在 angular-cli 建的工程里面，使用 bootstrap，会遇到什么问题？（出题：stone-jin）
